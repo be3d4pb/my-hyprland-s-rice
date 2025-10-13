@@ -8,5 +8,5 @@
 ## Programmes 
 ### <img width="2561" height="1441" alt="image" src="https://github.com/user-attachments/assets/0ff60b05-2c89-44b3-b49d-c1a436063729" />
 
-### Required stuff: waybar, eww, hyprland(HOW OBVIOUS), kitty, zsh, nautilus, rofi, LY as loading screen(I prefer simplicity). 
+### Required stuff: waybar, eww, hyprland(HOW OBVIOUS), kitty, zsh, nautilus, vscode, rofi, thunar, LY as loading screen(I prefer simplicity). 
 ### Will update if issues pop up
