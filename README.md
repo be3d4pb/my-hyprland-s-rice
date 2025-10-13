@@ -10,4 +10,5 @@
 
 ### Required stuff: waybar, eww, hyprland(HOW OBVIOUS), kitty, zsh, nautilus, vscode, rofi, thunar, LY as loading screen(I prefer simplicity). 
 ### Will update if issues pop up
+###Cursor - Bibata-Modern-Ice-Right
 #### I HIGHLY recommend not using light wallpaper image
