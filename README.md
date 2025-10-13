@@ -1,4 +1,4 @@
-# My main rice i use daily for basic needs: gaming, Internet surfing, some coding etc
+# My main rice I use daily for basic needs: gaming, Internet surfing, some coding etc
 ## Main Monitor
 ## <img width="2561" height="1441" alt="image" src="https://github.com/user-attachments/assets/08eb253c-f513-41a3-9d84-de04d7540195" />
 
