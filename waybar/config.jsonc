@@ -1,0 +1,84 @@
+{
+    "layer": "top",
+    "position": "top",
+    "reload_style_on_change": true,
+    "modules-left": ["clock","wireplumber", "group/expand"],
+    "modules-center": ["hyprland/workspaces"],
+    "modules-right": ["custom/kitty", "network", "custom/thunar" , "custom/code" , "custom/firefox", "custom/notification", "custom/power"],
+
+
+    "hyprland/workspaces": {
+        "persistent-workspaces": {
+            "*": [ 1,2,3,4,5 ]
+        }
+    },
+
+    "custom/kitty":{
+        "format":" ",
+        "on-click":"kitty"
+    },
+
+    "custom/control":{
+        "format":"  ",
+        "on-click":"control"
+    },
+    "custom/thunar":{
+        "format":"  ",
+        "on-click":"thunar"
+    },
+    "custom/code":{
+        "format":"  ",
+        "on-click":"code"
+    },
+    "custom/firefox":{
+        "format":"    ",
+        "on-click":"firefox"
+    },
+    
+
+    "wireplumber":{
+        "format":"  {volume}%",
+        "format-muted":" {volume}%",
+        "tooltip":false,
+        "on-click": "pavucontrol"
+    },
+
+    "group/expand": {
+            "orientation": "horizontal",
+            "drawer": {
+                "transition-duration": 600,
+                "transition-to-right": true,
+                "click-to-reveal": true
+            },
+            "modules": ["custom/expand", "tray"],
+    },
+
+
+    "custom/power": {
+        "format": " ",
+        "on-click":"shutdown -h now"
+    },
+
+    "clock": {
+        "format": " {:%I:%M:%S %p}",
+        "interval": 1,
+        "tooltip":false
+    },
+    "network": {
+    "format-ethernet": " 󰀃",
+    "tooltip-format": " 󰅧{bandwidthUpBytes}  󰅢 {bandwidthDownBytes} ",
+    "format-linked": "<span color='#FFA500'> 󱘖 </span>{ifname} (No IP) ",
+    "format-disconnected": "<span color='#FF4040'>  </span>Disconnected ",
+    "interval": 1
+    },
+    "custom/expand": {
+        "format": "",
+        "tooltip": false
+    },
+    "custom/notification": {
+    "format": "   ┃",
+    "orientation": "horizontal",
+    "tooltip": false,
+    "on-click": "swaync-client -t"
+  },
+} 
