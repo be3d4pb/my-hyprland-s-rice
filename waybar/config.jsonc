@@ -2,10 +2,15 @@
     "layer": "top",
     "position": "top",
     "reload_style_on_change": true,
-    "modules-left": ["clock","wireplumber", "group/expand"],
+    "modules-left": ["clock","wireplumber", "custom/vpn", "custom/cava", "group/expand"],
     "modules-center": ["hyprland/workspaces"],
-    "modules-right": ["custom/kitty", "network", "custom/thunar" , "custom/code" , "custom/firefox", "custom/notification", "custom/power"],
+    "modules-right": ["custom/spotify", "network", "custom/thunar" , "custom/code" , "custom/firefox", "custom/notification", "custom/power"],
 
+    "custom/cava": {
+        "format": "{}",
+        "exec": "~/.config/waybar/cava.sh"
+    },
+    
 
     "hyprland/workspaces": {
         "persistent-workspaces": {
@@ -13,9 +18,16 @@
         }
     },
 
-    "custom/kitty":{
-        "format":" ",
-        "on-click":"kitty"
+    "custom/spotify": {
+        "format": "{}",
+        "return-type": "json",
+        "on-click-right": "spotifatius toggle-liked",
+        "exec": "spotifatius monitor"
+    },
+
+    "custom/vpn":{
+        "format":"  健忘症  ",
+        "on-click":"AmneziaVPN"
     },
 
     "custom/control":{
@@ -72,7 +84,7 @@
     "interval": 1
     },
     "custom/expand": {
-        "format": "",
+        "format": " ",
         "tooltip": false
     },
     "custom/notification": {
