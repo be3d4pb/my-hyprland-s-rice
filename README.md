@@ -1,6 +1,6 @@
 # My main rice I use daily for basic needs: gaming, Internet surfing, some coding etc
 ## Main Monitor
-## <img width="2561" height="1441" alt="image" src="https://github.com/user-attachments/assets/08eb253c-f513-41a3-9d84-de04d7540195" />
+## <img width="2560" height="1440" alt="screenshot_251203_082718" src="https://github.com/user-attachments/assets/3e62bbcd-6fb1-4d52-b8a0-7fe040af43c2" />
 
 ## Second Monitor
 ## <img width="1601" height="901" alt="image" src="https://github.com/user-attachments/assets/06732bc9-5a0d-46c8-a470-adfbb3f6f71f" />
