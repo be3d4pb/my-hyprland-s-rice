@@ -1,4 +1,3 @@
-# My main rice I use daily for basic needs: gaming, Internet surfing, some coding etc
 ## Main Monitor
 ## <img width="2560" height="1440" alt="screenshot_251203_082718" src="https://github.com/user-attachments/assets/3e62bbcd-6fb1-4d52-b8a0-7fe040af43c2" />
 
