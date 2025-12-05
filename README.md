@@ -8,7 +8,4 @@
 ## Programmes 
 ### <img width="2561" height="1441" alt="image" src="https://github.com/user-attachments/assets/0ff60b05-2c89-44b3-b49d-c1a436063729" />
 
-### Required stuff: waybar, eww, swaync, kitty, zsh, nautilus, hyprshot, vscode, rofi, pamixer, thunar, spotifatius, LY as loading screen(I prefer simplicity). 
-### Will update if issues pop up
-### Cursor - Bibata-Modern-Ice-Right
-#### I HIGHLY recommend not using light wallpaper image
+### Required stuff: waybar, swaync, kitty, zsh, nautilus, hyprshot, grimblast, rofi, pamixer, thunar, hyprlock
